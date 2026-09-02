@@ -1,0 +1,10 @@
+*.zip
+*.pdf
+.claude/
+graphify-out/
+
+# semanas sin resolver aun (material base sin trabajo entregado)
+Semana 1/
+Semana 2/
+Semana 3/
+Semana 4/
