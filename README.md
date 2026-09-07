@@ -4,9 +4,9 @@ Trabajos del curso de Inteligencia Regenerativa (modelos generativos profundos) 
 
 ## Semana 5 — Arquitectura y dimensionamiento de un CNN-VAE
 
-Punto de partida: [`Semana 5/cnn_vae.ipynb`](Semana%205/cnn_vae.ipynb), un autoencoder variacional convolucional (CNN-VAE) entrenado sobre MNIST con espacio latente de dimensión 2.
+Punto de partida: [`Contenido Semanal/Semana 5/cnn_vae.ipynb`](Contenido%20Semanal/Semana%205/cnn_vae.ipynb), un autoencoder variacional convolucional (CNN-VAE) entrenado sobre MNIST con espacio latente de dimensión 2.
 
-Entregable: [`Semana 5/cnn_vae_dibujo.png`](Semana%205/cnn_vae_dibujo.png), el dibujo de la arquitectura (encoder, muestreo/reparametrización, decoder) con el dimensionamiento de cada capa — forma de salida y cantidad de parámetros, verificados contra el `model.summary()` real del notebook.
+Entregable: [`Contenido Semanal/Semana 5/cnn_vae_dibujo.png`](Contenido%20Semanal/Semana%205/cnn_vae_dibujo.png), el dibujo de la arquitectura (encoder, muestreo/reparametrización, decoder) con el dimensionamiento de cada capa — forma de salida y cantidad de parámetros, verificados contra el `model.summary()` real del notebook.
 
 **Resumen de parámetros**
 
@@ -22,7 +22,7 @@ Dimensión del espacio latente: **2**.
 
 **Grupo 1:** Sergio Gómez — Valeria Franco
 
-Entregable único: [`Examen Practico 1/Examen_Practico_1_Completo.ipynb`](Examen%20Practico%201/Examen_Practico_1_Completo.ipynb),
+Entregable único: [`Examen Practico 1/Examen practico 1.ipynb`](Examen%20Practico%201/Examen%20practico%201.ipynb),
 un solo notebook ejecutado de principio a fin (62 celdas, sin errores) que cubre los cuatro
 criterios de la rúbrica de la Parte 1:
 
@@ -79,7 +79,7 @@ mejor desempeño en `forest` y `street` (matriz de confusión completa en el not
 
 ## Guion de exposición
 
-[`Examen Practico 1/GUION_EXPOSICION.md`](Examen%20Practico%201/GUION_EXPOSICION.md) — guion
+[`Examen Practico 1/Guión.md`](Examen%20Practico%201/Guión.md) — guion
 completo para la presentación (máx. 20 min), con reparto por integrante, explicación celda por
 celda de las cuatro secciones del notebook, y respuestas preparadas a preguntas frecuentes del
 profesor.
