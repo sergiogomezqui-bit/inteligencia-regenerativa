@@ -22,7 +22,7 @@ Dimensión del espacio latente: **2**.
 
 **Grupo 1:** Sergio Gómez — Valeria Franco
 
-Entregable único: [`Examen Practico 1/Examen practico 1.ipynb`](Examen%20Practico%201/Examen%20practico%201.ipynb),
+Entregable único: [`Evaluaciones/Examen Practico 1/Examen practico 1.ipynb`](Evaluaciones/Examen%20Practico%201/Examen%20practico%201.ipynb),
 un solo notebook ejecutado de principio a fin (62 celdas, sin errores) que cubre los cuatro
 criterios de la rúbrica de la Parte 1:
 
@@ -79,7 +79,7 @@ mejor desempeño en `forest` y `street` (matriz de confusión completa en el not
 
 ## Guion de exposición
 
-[`Examen Practico 1/Guión.md`](Examen%20Practico%201/Guión.md) — guion
+[`Evaluaciones/Examen Practico 1/Guión.md`](Evaluaciones/Examen%20Practico%201/Guión.md) — guion
 completo para la presentación (máx. 20 min), con reparto por integrante, explicación celda por
 celda de las cuatro secciones del notebook, y respuestas preparadas a preguntas frecuentes del
 profesor.
