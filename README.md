@@ -18,13 +18,13 @@ Entregable: [`Contenido Semanal/Semana 5/cnn_vae_dibujo.png`](Contenido%20Semana
 
 Dimensión del espacio latente: **2**.
 
-## Examen Práctico 1 — Parte 1 (Autoencoders, Denoising y Stacked Autoencoders)
+## Examen Práctico 1 (Autoencoders, Denoising y Stacked Autoencoders)
 
 **Grupo 1:** Sergio Gómez — Valeria Franco
 
 Entregable único: [`Evaluaciones/Examen Practico 1/Examen practico 1.ipynb`](Evaluaciones/Examen%20Practico%201/Examen%20practico%201.ipynb),
-un solo notebook ejecutado de principio a fin (62 celdas, sin errores) que cubre los cuatro
-criterios de la rúbrica de la Parte 1:
+un solo notebook ejecutado de principio a fin (62 celdas, sin errores) que cubre las Partes 1, 2
+y 3 completas del enunciado (`practical_exam1.pdf`):
 
 ### 1–2. Autoencoder + Reducción de dimensionalidad (CIFAR-10)
 
