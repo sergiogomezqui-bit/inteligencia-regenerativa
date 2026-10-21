@@ -42,9 +42,9 @@ Para volver a ejecutarlos: *Entorno de ejecución → Cambiar tipo de entorno �
 
 | Métrica (conjunto de prueba) | Char-Llama | Word-Llama | Línea base |
 |---|---|---|---|
-| Perplejidad | **3.09** por carácter | **96.7** por palabra | 19.16 (unigramas de caracteres) · 441.8 (unigramas de palabras) |
+| Perplejidad | **3.09** por carácter | **97.3** por palabra | 19.16 (unigramas de caracteres) · 441.8 (unigramas de palabras) |
 | Bits por carácter (BPC) | 1.63 | **1.46** (equivalente) | 4.26 |
-| Exactitud top-1 / top-5 | 0.642 / 0.905 | 0.239 / 0.458 | 0.181 / 0.514 (caracteres) |
+| Exactitud top-1 / top-5 | 0.642 / 0.905 | 0.236 / 0.457 | 0.181 / 0.514 (caracteres) |
 | Parámetros | ~4.75 M | 9.29 M (6.1 M en embedding + salida) | — |
 | Sobreajuste | No (`val_loss` baja las 8 épocas) | Sí (`val_loss` sube desde la época 3) | — |
 
