@@ -75,7 +75,7 @@ las palabras raras.
 * El Char-Llama aprende ortografía, puntuación, diálogos y nombres propios solo a partir de
   caracteres, y reduce la perplejidad de 19.2 a 3.09 frente a la línea base.
 * El Word-Llama produce texto sin errores ortográficos y con un contexto más largo, pero sobreajusta:
-  ~450 k tokens son pocos para 12 000 palabras. Tiende a recombinar frases vistas (98 % de sus
+  ~450 k tokens son pocos para 12 000 palabras. Tiende a recombinar frases vistas (96 % de sus
   bigramas existen en el entrenamiento, frente a 76 % en texto real).
 * Con RAG el modelo deja de inventar datos: sin contexto dice 768 en lugar de 512 para `d_model`
   y confunde RAG con otra cosa. La recuperación es el cuello de botella: las 4 preguntas sobre
